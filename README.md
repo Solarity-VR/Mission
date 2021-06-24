@@ -16,6 +16,7 @@ Every users from the first to the #1.3M receives:
 <br>100th user: 363.85, 10’000th user: 187.68
 
 This will allocate 50M Tokens to the first 1.3M users of the platform, rewarding the early ones through our distribution function.
+ 
 ![alt text](https://github.com/Solarity-VR/Mission/blob/main/airdrop.png?raw=true)
 <h2>Rewards for VERSEholders</h2>
 Solarity aims to incentivize the building and holders community with these steps:
