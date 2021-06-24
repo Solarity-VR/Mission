@@ -26,7 +26,7 @@ Every users from the first to the #1.3M receives:
 <br>100th user: 363.85, 10’000th user: 187.68
 
 This will allocate 50M Tokens to the first 1.3M users of the platform, rewarding the early ones through our distribution function: 
-  <h2>Solarity as world user-aggregator metaspace</h2>
+<h2>Solarity as world user-aggregator metaspace</h2>
 We truly believe that Solarity can be a revolutionary virtual space where the user is completely free of learn, build, play or trade whatever he wants:
 
   <li>It provides a new way to support an open-source project: by giving it space on the metaverse and the ability to offer a Virtual Reality experience without having to code everything.
@@ -34,7 +34,7 @@ We truly believe that Solarity can be a revolutionary virtual space where the us
   <li>It provides computing power to creators, schools and users to render and create anything they can think of.
   <li>It provides rewards for early investors in successful projects, both via Solarity appreciation, and via Airdrops from dependent projects.
 
-    <h2>Current Status</h2>
+<h2>Current Status</h2>
 The Solarity project is still in extremely early stages. Development has not yet started.
 
 We believe that before we can responsibly start work on Solarity, we need a robust, transparent, and gaming-resistant way to attribute credit in open-source subDAPPS. 
@@ -44,5 +44,5 @@ Without a clear and fair composition, the Solarity metaverse can become corrupt 
 
 For that reason, we're focusing our efforts first on building Solarity's DAO Once it is ready, we'll start building out Solarity, starting with developing partnerships with new projects on the Solana ecosystem and with VR developer studios.
 
-    <h2>Getting Involved</h2>
+<h2>Getting Involved</h2>
 Solarity needs a lot of ideas and hands to develope this metaverse. If you want to get involved in Solarity or learn more about it, the best way is to join the Solarity community. You can find us on <a href="https://discord.gg/KdFkJa7P">Discord</a> and on <a href="https://github.com/solarity-vr">GitHub</a>.
