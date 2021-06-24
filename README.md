@@ -8,7 +8,15 @@ Solarity will make an open-source vr metaverse built on the Solana ecosystem for
 <li>A fraction of the harvested VERSE flows to those who hold VERSE in the project's dependencies.
 <li>Solarity is a freely transferrable and exchangeable asset. It will be implemented as an SPL token, meaning that it can be bought or sold using <a href="https://raydium.io/"> Raydium. </a>
 
-  <h2>The VERSE token</h2>
+<h2>The VERSE token</h2>
+
+Every users from the first to the #1.3M receives:
+<br>5*(100-7.7ln(x/3 +1) tokens where x means how many users are currently registered on the platform. 
+<br>1st user: 500 VERSE, <br>2nd user: 488.92 VERSE
+<br>100th user: 363.85, 10’000th user: 187.68
+
+This will allocate 50M Tokens to the first 1.3M users of the platform, rewarding the early ones through our distribution function.
+<h2>Rewards for VERSEholders</h2>
 Solarity aims to incentivize the building and holders community with these steps:
 
 <ol>
@@ -18,14 +26,7 @@ Solarity aims to incentivize the building and holders community with these steps
 
   </ol>
 
-  <h2>Rewards for VERSEholders</h2>
 
-Every users from the first to the #1.3M receives:
-<br>5*(100-7.7ln(x/3 +1) tokens where x means how many users are currently registered on the platform. 
-<br>1st user: 500 VERSE, <br>2nd user: 488.92 VERSE
-<br>100th user: 363.85, 10’000th user: 187.68
-
-This will allocate 50M Tokens to the first 1.3M users of the platform, rewarding the early ones through our distribution function: 
 <h2>Solarity as world user-aggregator metaspace</h2>
 We truly believe that Solarity can be a revolutionary virtual space where the user is completely free of learn, build, play or trade whatever he wants:
 
