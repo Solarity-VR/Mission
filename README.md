@@ -49,3 +49,4 @@ For that reason, we're focusing our efforts first on building Solarity's DAO Onc
 
 <h2>Getting Involved</h2>
 Solarity needs a lot of ideas and hands to develope this metaverse. If you want to get involved in Solarity or learn more about it, the best way is to join the Solarity community. You can find us on <a href="https://discord.gg/KdFkJa7P">Discord</a> and on <a href="https://github.com/solarity-vr">GitHub</a>.
+ 
